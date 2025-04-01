@@ -1,9 +1,10 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    Name: 'Intervención y evaluación en entornos saludables',
+    Description:
+      'Para incursionar en la promoción de la educación en entornos saludables, Colombia fortalece competencias pedagógicas dentro del plan decenal de salud pública (PDSP) 2012-2021 y la estrategia de entornos saludables (EES). Esta iniciativa busca mejorar la calidad de vida mediante acciones educativas centradas en la sostenibilidad ambiental, la salud pública y la equidad, alineadas con la carta de Ottawa de 1986.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -12,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
@@ -31,27 +36,41 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Estrategia de escuelas saludables',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Subtema 1',
-            hash: 't_1_1',
-          },
-        ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Evaluación de la estrategia de entornos saludables (EES)',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo:
+              'Estructura general para la implementación de la estrategia de entornos saludables (EES)',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo:
+              'Plan de acción intersectorial de entornos saludables (PAIES)',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo:
+          'Elementos que debe incluir el PAIES según las directrices de la OMS/OPS',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo:
+          'Directrices para la caracterización y seguimiento de la estrategia de entornos saludables (EES)',
         desarrolloContenidos: true,
       },
     ],
