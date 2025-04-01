@@ -32,9 +32,29 @@
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6 
   color: $white !important  
 
-.titulo-principal__numero
-    background-color: $color-secundario  !important
-.banner-interno__titulo__icono i,
-.banner-interno__titulo h1, .banner-interno__titulo h2, .banner-interno__titulo h3, .banner-interno__titulo h4, .banner-interno__titulo h5, .banner-interno__titulo h6
-    color: $color-sistema-texto !important  
+
+.banner-interno__titulo h1, .banner-interno__titulo h2, 
+.banner-interno__titulo h3, .banner-interno__titulo h4, 
+.banner-interno__titulo h5, .banner-interno__titulo h6
+  color: $white !important  
+ 
+
+
+/**************************************************************/
+/***CUSTOM STYLES***/
+/**************************************************************/
+.bg-full-width
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+.bg-fondo
+  &-1
+    background-image: url("../assets/bg/1.svg") !important
+    background-position: bottom
+
+        
  
