@@ -40,7 +40,24 @@
  
 .acordion__accion__btn--a 
     background-color: $color-acento-botones !important
+.slyder-f__btn i 
+    background-color: $color-acento-botones
+    border-radius: 50%;
+    border: none;
+    width: 50px;
+    height: 50px;
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+.cajon.color-primario 
+    background-color: #EDEBF7
+.tabla-a.color-acento-botones thead 
+    border-color: #B771E5;
 
+.tabla-a thead 
+    background-color: #EFFBE9;
 
 /**************************************************************/
 /***CUSTOM STYLES***/
@@ -71,6 +88,34 @@
     background-image: url("../assets/bg/5.png") !important
     background-size: 100% 100%;
     background-repeat: no-repeat
+  &-5
+    background-image: url("../assets/bg/6.png") !important
+    background-size: 100% 100%;
+    background-repeat: no-repeat
+  &-6
+    background-image: url("../assets/curso/temas/t2/4.svg") !important
+    background-size: 100% 100%;
+    background-repeat: no-repeat
+  &-7
+    background-image: url("../assets/curso/temas/t2/5.svg") !important
+    background-size: 100% 100%;
+    background-repeat: no-repeat
+  &-8
+    background-image: url("../assets/bg/8.svg") !important
+    background-position: bottom
+  &-9
+    background-image: url("../assets/bg/7.svg") !important
+    background-size: 100% 100%;
+    background-repeat: no-repeat
+  &-10
+    background-image: url("../assets/bg/9.png") !important
+    background-size: 100% 80%;
+    background-repeat: no-repeat
+    background-position: center
+  &-11
+    background-image: url("../assets/bg/10.svg") !important
+    background-size: 100% 100%;
+    background-repeat: no-repeat
 .bg-color
   &-1
     background-color: #EDEBF7 !important
@@ -88,6 +133,22 @@
     background-color: #F0E3FA
     border-radius: 30px
     width: fit-content
+  &-5
+    background-color: #F6F6F6
+    border-radius: 30px
+  &-6
+    background-color: #B5AEE0
+
+.border-top-cus::before
+    content: ' ';
+    display: block;
+    width: 50px;
+    height: 0px;
+    border: 5px $color-primario solid;
+    position: relative;
+    left: 20px;
+      
+
 
 .titulo-icono
   background-color: $color-acento-contenido
@@ -110,6 +171,7 @@
       
 .tarjeta--boton 
   height: 320px
+ 
   &.bg-fondo-2:active, &.bg-fondo-2:focus, &.bg-fondo-2:hover 
     background-color: #FCF9E8 !important
   &.bg-fondo-3
@@ -119,6 +181,19 @@
     background-image: url("../assets/bg/5.svg") !important
     p
       color: $white !important
+  
+  &-2
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+    &.bg-fondo-3
+      height: 180px
+    &.bg-fondo-3:active, &.bg-fondo-3:focus, &.bg-fondo-3:hover 
+      background-color: $color-primario !important
+      background-image: url("../assets/bg/5.svg") !important
+      p
+        color: $white !important
+    
 .bloque-texto-g__img.bg-color-1
   img
     position: relative;
@@ -151,17 +226,42 @@
   
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
+  .tarjeta--boton-2.bg-fondo-3
+    height: auto
   .mb-cus
     margin-bottom: 2em  !important  
   .bloque-texto-g
         padding-top: 40px !important;
+  .bg-fondo-6, .bg-fondo-7
+    height: 171px;
+  .slyder-f__btn i 
+    width: 40px;
+    height: 30px;
+    font-size: 1rem;
+  .bg-fondo-9
+    background-size: cover;
 
 //// MOBILE 576--------------------------------------
 @media screen and (max-width: $bp-min-sm)
-  .tarjeta--boton, .tarjeta--boton.bg-fondo-3
+  .tarjeta--boton, .tarjeta--boton.bg-fondo-3,
+  .tarjeta--boton-2.bg-fondo-3
     height: auto
   .mb-cus
     margin-bottom: 2em  !important
   .bloque-texto-g
         padding-top: 20px !important;
-    
+  .tarjeta--container > .tarjeta 
+    border-radius: 20px;
+  .slyder-f__btn i 
+    width: 40px;
+    height: 30px;
+    font-size: 1rem;
+  .ps-3
+    padding-left: 0 !important;
+  .pe-3
+    padding-right: 0 !important;
+  .bg-fondo-9
+    background-size: auto;
+  .bg-fondo-6, .bg-fondo-7
+      background-size: cover;
+      margin-bottom: 20px
