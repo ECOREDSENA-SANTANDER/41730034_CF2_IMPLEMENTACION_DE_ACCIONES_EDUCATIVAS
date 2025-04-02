@@ -5,8 +5,11 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Tema 2
-
+      h1 Evaluación de la estrategia de entornos saludables (EES)
+    .titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 2.1 Estructura general para la implementación de la estrategia de entornos saludables (EES)
+    .titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 2.2 Plan de acción intersectorial de entornos saludables (PAIES)
 </template>
 
 <script>

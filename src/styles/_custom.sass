@@ -38,6 +38,8 @@
 .banner-interno__titulo h5, .banner-interno__titulo h6
   color: $white !important  
  
+.acordion__accion__btn--a 
+    background-color: $color-acento-botones !important
 
 
 /**************************************************************/
@@ -55,6 +57,111 @@
   &-1
     background-image: url("../assets/bg/1.svg") !important
     background-position: bottom
+  &-2
+    background-image: url("../assets/bg/3.svg") !important
+    background-position: top right
+    background-repeat: no-repeat
+    background-color: #B5AEE0
+  &-3
+    background-image: url("../assets/bg/4.svg") !important
+    background-position: top right
+    background-repeat: no-repeat
+    background-color: #B5AEE0
+  &-4
+    background-image: url("../assets/bg/5.png") !important
+    background-size: 100% 100%;
+    background-repeat: no-repeat
+.bg-color
+  &-1
+    background-color: #EDEBF7 !important
+  &-2
+    background-color: $color-primario
+    h3
+      color: $white !important
+    &.acordion__activo
+      h3
+        color: $color-sistema-texto !important
+      background-color: #B5AEE0 !important
+  &-3
+    color: $color-primario !important
+  &-4
+    background-color: #F0E3FA
+    border-radius: 30px
+    width: fit-content
 
-        
- 
+.titulo-icono
+  background-color: $color-acento-contenido
+  border-radius: 30px
+  width: fit-content
+  position: relative;
+  left: 12px;
+  &-text
+    margin-right: 10px
+  &-img
+    padding: 0px
+    &:before
+      position: relative
+      border-bottom-right-radius: 40px
+      @media screen and (max-width: 767px)
+        height: 280%
+    img
+      position: relative
+      max-width: 50px
+      
+.tarjeta--boton 
+  height: 320px
+  &.bg-fondo-2:active, &.bg-fondo-2:focus, &.bg-fondo-2:hover 
+    background-color: #FCF9E8 !important
+  &.bg-fondo-3
+    height: 280px
+  &.bg-fondo-3:active, &.bg-fondo-3:focus, &.bg-fondo-3:hover 
+    background-color: $color-primario !important
+    background-image: url("../assets/bg/5.svg") !important
+    p
+      color: $white !important
+.bloque-texto-g__img.bg-color-1
+  img
+    position: relative;
+    width: 50%;
+    left: 30%;
+    top: -39px;
+/**************************************************************/
+/*Media Queries*/  
+/**************************************************************/
+
+//// DESKTOP SMALL 1400--------------------------------------
+@media screen and (max-width: $bp-min-xxl)
+  .tarjeta--boton 
+    height: 350px
+  .mb-cus
+    margin-bottom: 2em  !important 
+  .bloque-texto-g__img.bg-color-1 img 
+    width: 70%;
+    top: -55px;
+//// TABLET 992--------------------------------------
+@media screen and (max-width: $bp-max-md)
+  .tarjeta--boton
+    height: 280px
+
+  .tarjeta--boton.bg-fondo-3 
+    height: 180px
+  .mb-cus
+    margin-bottom: 2em  !important  
+  
+  
+//// TABLET MINI 768--------------------------------------
+@media screen and (max-width: $bp-min-md)
+  .mb-cus
+    margin-bottom: 2em  !important  
+  .bloque-texto-g
+        padding-top: 40px !important;
+
+//// MOBILE 576--------------------------------------
+@media screen and (max-width: $bp-min-sm)
+  .tarjeta--boton, .tarjeta--boton.bg-fondo-3
+    height: auto
+  .mb-cus
+    margin-bottom: 2em  !important
+  .bloque-texto-g
+        padding-top: 20px !important;
+    

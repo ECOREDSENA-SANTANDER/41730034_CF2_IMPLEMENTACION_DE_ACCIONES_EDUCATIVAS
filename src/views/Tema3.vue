@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Tema 3
+      h1 Elementos que debe incluir el PAIES según las directrices de la OMS/OPS
 
 </template>
 

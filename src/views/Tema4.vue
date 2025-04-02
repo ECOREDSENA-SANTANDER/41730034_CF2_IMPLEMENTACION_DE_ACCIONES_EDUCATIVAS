@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Tema 4
+      h1 Directrices para la caracterización y seguimiento de la estrategia de entornos saludables (EES)
 
 
 </template>
