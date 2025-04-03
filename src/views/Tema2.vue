@@ -66,27 +66,27 @@
             img(src='@/assets/curso/temas/t2/8.png', alt='')
           .col-sm-12.col-lg-8
             SlyderF.mb-5(columnas="col-lg-6 col-xl-6")
-              .tarjeta.bg-fondo-9.p-3.p-md-5
-                .row.align-items-center.my-4.m-auto.d-none.d-lg-block
-                    .col-5
+              .tarjeta.bg-fondo-9.p-3.p-md-3.p-lg-5
+                .row.align-items-center.my-4.justify-content-center.hide-icon-sm
+                    .col-sm-12.col-md-3.col-lg-5
                         img(src='@/assets/curso/temas/t2/9.svg', alt='')
                 p.mb-0.text-center Medir el impacto de las acciones en la mejora de los entornos escolares, comunitarios y laborales.
           
-              .tarjeta.bg-fondo-9.p-3.p-md-5
-                .row.align-items-center.my-4.m-auto.d-none.d-lg-block
-                    .col-5
+              .tarjeta.bg-fondo-9.p-3.p-md-3.p-lg-5
+                .row.align-items-center.my-4.justify-content-center.hide-icon-sm
+                    .col-sm-12.col-md-3.col-lg-5
                         img(src='@/assets/curso/temas/t2/10.svg', alt='')
                 p.mb-0.text-center Identificar logros, retos y oportunidades de mejora en la implementación de la estrategia.
 
-              .tarjeta.bg-fondo-9.p-3.p-md-5
-                .row.align-items-center.my-4.m-auto.d-none.d-lg-block
-                    .col-5
+              .tarjeta.bg-fondo-9.p-3.p-md-3.p-lg-5
+                .row.align-items-center.my-4.justify-content-center.hide-icon-sm
+                    .col-sm-12.col-md-3.col-lg-5
                         img(src='@/assets/curso/temas/t2/11.svg', alt='')
                 p.mb-0.text-center Garantizar la transparencia y efectividad en el uso de los recursos destinados a la promoción de la salud.
 
-              .tarjeta.bg-fondo-9.p-3.p-md-5
-                .row.align-items-center.my-4.m-auto.d-none.d-lg-block
-                    .col-5
+              .tarjeta.bg-fondo-9.p-3.p-md-3.p-lg-5
+                .row.align-items-center.my-4.justify-content-center.hide-icon-sm
+                    .col-sm-12.col-md-3.col-lg-5
                         img(src='@/assets/curso/temas/t2/12.svg', alt='')
                 p.mb-0.text-center Orientar la toma de decisiones informadas para fortalecer y ajustar las acciones según las particularidades de cada territorio.
 
@@ -186,9 +186,9 @@
             .bg-fondo-10
               .row.justify-content-center.align-items-center.mb-5
                 .col-sm-12.col-lg-4.d-none.d-lg-block
-                  img(src='@/assets/curso/temas/t2/17.png', alt='')
-                .col-sm-12.col-lg-4.bg-color-5.p-5.text-center
-                  i.fas.fa-check-circle.bg-color-3.m-auto.fa-2x.mb-2
+                  img.hcard-1(src='@/assets/curso/temas/t2/17.png', alt='')
+                .col-sm-12.col-lg-4.bg-color-5.px-4.py-4.text-center.hcard-1.align-items-center
+                  i.fas.fa-check-circle.bg-color-3.m-auto.fa-2x.mb-4
                   p.mb-0 Responsable de adaptar y ejecutar la estrategia a nivel departamental, municipal y local, asegurando que las acciones se alineen con las necesidades de cada territorio.
 
     .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
@@ -211,23 +211,20 @@
     .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-sm-12.col-lg-4
         .tarjeta--boton-2.bg-fondo-3.p-4.mb-cus
-          .row.justify-content-center.mb-3.d-none.d-lg-block
-            .col-3
-              figure
+          .row.justify-content-center.mb-3.hide-icon-sm
+            .col-sm-12.col-md-2.col-lg-3
                 img(src='@/assets/curso/temas/t2/19.svg')
           p.text-center.mb-0 Red de vivienda saludable.
       .col-sm-12.col-lg-4
         .tarjeta--boton-2.bg-fondo-3.p-4.mb-cus
-          .row.justify-content-center.mb-3.d-none.d-lg-block
-            .col-3
-              figure
+          .row.justify-content-center.mb-3.hide-icon-sm
+            .col-sm-12.col-md-2.col-lg-3
                 img(src='@/assets/curso/temas/t2/18.svg')
           p.text-center.mb-0 Red de escuelas saludables.
       .col-sm-12.col-lg-4
         .tarjeta--boton-2.bg-fondo-3.p-4.mb-cus
-          .row.justify-content-center.mb-3.d-none.d-lg-block
-            .col-3
-              figure
+          .row.justify-content-center.mb-3.hide-icon-sm
+            .col-sm-12.col-md-2.col-lg-3
                 img(src='@/assets/curso/temas/t2/20.svg')
           p.text-center.mb-0 Red de lugares de trabajo saludables.
 
@@ -280,7 +277,7 @@
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/t2/21.png')})`}"
       )
-      .bloque-texto-g__texto.p-4
+      .bloque-texto-g__texto.p-4.my-5
         p.mb-0 Elemento transversal que garantiza la inclusión de las comunidades (estudiantes, familias, docentes, organizaciones sociales) en todas las fases del proceso, la comunidad participa en el diagnóstico, diseño, ejecución y evaluación de las acciones, asegurando que respondan a sus necesidades reales.
     .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
       .col-auto.titulo-icono-img
