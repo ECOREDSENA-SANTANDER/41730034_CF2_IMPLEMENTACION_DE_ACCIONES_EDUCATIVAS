@@ -6,12 +6,12 @@
       .titulo-principal__numero
         span 4
       h1 Directrices para la caracterización y seguimiento de la estrategia de entornos saludables (EES)
-    p.mb-4(data-aos="fade-left") La organización mundial de la salud (OMS) y la organización panamericana de la salud (OPS) (2009) establecieron que para una adecuada gestión de las condiciones socio - ambientales y sanitarias en cada uno de los subprogramas de la estrategia de entornos saludables (EES), es fundamental contar con un proceso sistemático de caracterización y seguimiento, por ello, se recomienda que los programas de caracterización y monitoreo incluyan, al menos, los siguientes componentes fundamentales:
+    p.mb-4(data-aos="fade-left") La organización mundial de la salud (OMS) y la organización panamericana de la salud (OPS) (2009) establecieron que para una adecuada gestión de las condiciones socio-ambientales y sanitarias en cada uno de los subprogramas de la estrategia de entornos saludables (EES), es fundamental contar con un proceso sistemático de caracterización y seguimiento, por ello, se recomienda que los programas de caracterización y monitoreo incluyan, al menos, los siguientes componentes fundamentales:
     .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
       .col-auto.titulo-icono-img
         img(src='@/assets/bg/2.svg', alt='')
       .col
-        h3.mb-0.titulo-icono-text.p-0 Sistema de caracterización comunitaria para la estrategia de viviendas saludables (EVS): 
+        h3.mb-0.titulo-icono-text.p-0 Sistema de caracterización comunitaria para la estrategia de viviendas saludables (EVS)
     .row.justify-content-center.mb-5.bg-color-6(data-aos="fade-left")
       .col-lg-5.col-6.col-md-8.p-0.d-none.d-lg-block
         img(src='@/assets/curso/temas/t4/1.png', alt='')
@@ -25,7 +25,7 @@
       .col-auto.titulo-icono-img
         img(src='@/assets/bg/2.svg', alt='')
       .col
-        h3.mb-0.titulo-icono-text.p-0 Sistema de caracterización institucional para la estrategia de escuelas saludables (EES): 
+        h3.mb-0.titulo-icono-text.p-0 Sistema de caracterización institucional para la estrategia de escuelas saludables (EES)
     .bloque-texto-g.bg-fondo-5.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/t4/2.png')})`}"
@@ -40,7 +40,7 @@
       .col-auto.titulo-icono-img
         img(src='@/assets/bg/2.svg', alt='')
       .col
-        h3.mb-0.titulo-icono-text.p-0 Sistema de caracterización laboral para la estrategia de lugares de trabajo saludables (ELTS): 
+        h3.mb-0.titulo-icono-text.p-0 Sistema de caracterización laboral para la estrategia de lugares de trabajo saludables (ELTS)
     .bloque-texto-g.bloque-texto-g--inverso.bg-fondo-4.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
         .bloque-texto-g__img.bg-color-1.d-none.d-lg-block
           img(src='@/assets/curso/temas/t4/3.png')
@@ -67,7 +67,7 @@
       .col-auto.titulo-icono-img
         img(src='@/assets/bg/2.svg', alt='')
       .col
-        h3.mb-0.titulo-icono-text.p-0 Incorporación de indicadores de equidad y determinantes sociales de la salud: 
+        h3.mb-0.titulo-icono-text.p-0 Incorporación de indicadores de equidad y determinantes sociales de la salud
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-sm-12.col-lg-9
         p.mb-4 Es imprescindible que todos los sistemas mencionados incluyan indicadores de desigualdad y vulnerabilidad, de manera que las acciones se focalicen en los grupos y territorios con mayores carencias y riesgos, esto incluye el análisis de variables como nivel socioeconómico, género, ciclo de vida, pertenencia étnica, discapacidad, acceso a servicios esenciales, entre otros, el enfoque de equidad permite avanzar hacia la justicia social, contribuyendo a cerrar brechas y a garantizar el acceso universal a entornos saludables.
@@ -266,7 +266,7 @@
         img.mx-2(src='@/assets/curso/temas/t4/6.svg', alt='')
       .col-sm-12.col-lg-11
         .py-4
-          p.mb-0 #[b Concepto:] es una herramienta diseñada para realizar un auto - diagnóstico participativo del entorno escolar, según los componentes y líneas de acción definidas en los lineamientos nacionales para la aplicación y desarrollo de las estrategias de entornos saludables (2006). Su objetivo es orientar a las instituciones educativas en la identificación de desafíos y oportunidades de mejora, a fin de avanzar hacia la consolidación de escuelas más seguras, inclusivas y saludables.
+          p.mb-0 #[b Concepto:] es una herramienta diseñada para realizar un auto-diagnóstico participativo del entorno escolar, según los componentes y líneas de acción definidas en los lineamientos nacionales para la aplicación y desarrollo de las estrategias de entornos saludables (2006). Su objetivo es orientar a las instituciones educativas en la identificación de desafíos y oportunidades de mejora, a fin de avanzar hacia la consolidación de escuelas más seguras, inclusivas y saludables.
 
     p.mb-3(data-aos="fade-left") La herramienta está estructurada en dos grandes módulos:
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")

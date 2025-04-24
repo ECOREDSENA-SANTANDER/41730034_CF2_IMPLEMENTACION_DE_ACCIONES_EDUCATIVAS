@@ -96,7 +96,7 @@
               .col-4.m-auto
                 figure
                   img(src='@/assets/curso/temas/t1/8.svg')
-            p.text-center.mb-0 Promueve la equidad y reducir las desigualdades en el acceso a la salud y la educación.
+            p.text-center.mb-0 Promover la equidad y reducir las desigualdades en el acceso a la salud y la educación.
 
 
 
@@ -111,7 +111,7 @@
           img(src='@/assets/curso/temas/t1/9.png')
 
         .bloque-texto-g__texto.p-4
-          p.mb-0 De acuerdo con los lineamientos actualizados del ministerio de salud y protección social, la estrategia de escuela saludable (EES) se basa en cinco componentes fundamentales que buscan promover la salud y el bienestar integral en el entorno escolar, esta estrategia se desarrolla a través de un enfoque intersectorial y participativo, que articula esfuerzos del sector educativo, salud, familia y comunidad, y que promueve acciones tanto a nivel individual como colectivo dentro de las instituciones educativas.
+          p.mb-0 De acuerdo con los lineamientos actualizados del ministerio de salud y protección social, la estrategia de escuela saludable (EES) se basa en cinco componentes fundamentales que buscan promover la salud y el bienestar integral en el entorno escolar. Esta estrategia se desarrolla a través de un enfoque intersectorial y participativo, que articula esfuerzos del sector educativo, salud, familia y comunidad, y que promueve acciones tanto a nivel individual como colectivo dentro de las instituciones educativas.
       
       .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
@@ -127,7 +127,7 @@
             div(titulo='Políticas públicas y planes para escuelas saludables')
               .row.mb-0
                 .col-sm-12.col-lg-9
-                  p.mb-0 Este componente se refiere a la creación, adopción y aplicación de leyes, decretos, resoluciones, planes, normas y acuerdos que garantizan la promoción y protección de la salud en el entorno escolar. Implica la articulación de diferentes sectores (salud, educación, vivienda, ambiente, entre otros) y busca incidir directamente en los determinantes sociales de la salud, asegurando derechos y condiciones adecuadas para el desarrollo de las niñas, niños y adolescentes, su objetivo principal es asegurar que las escuelas cuenten con un respaldo normativo que les permita implementar acciones sostenibles y alineadas con políticas nacionales y locales.
+                  p.mb-0 Este componente se refiere a la creación, adopción y aplicación de leyes, decretos, resoluciones, planes, normas y acuerdos que garantizan la promoción y protección de la salud en el entorno escolar. Implica la articulación de diferentes sectores (salud, educación, vivienda, ambiente, entre otros) y busca incidir directamente en los determinantes sociales de la salud, asegurando derechos y condiciones adecuadas para el desarrollo de las niñas, niños y adolescentes. Su objetivo principal es asegurar que las escuelas cuenten con un respaldo normativo que les permita implementar acciones sostenibles y alineadas con políticas nacionales y locales.
                 .col-sm-12.col-lg-3.d-none.d-lg-block
                   img(src='@/assets/curso/temas/t1/10.svg', alt='')
             div(titulo='Ambientes saludables en la escuela')
@@ -161,7 +161,7 @@
             div(titulo='Reorientación de los servicios de salud y vigilancia en salud pública')
               .row.mb-4
                 .col-sm-12.col-lg-9
-                  p.mb-4 este componente fomenta la articulación entre los sectores de salud y educación para garantizar que las necesidades de salud de los estudiantes sean atendidas de manera oportuna y efectiva; su objetivo es garantizar el acceso a servicios de salud integrales, con énfasis en la prevención y el cuidado continuo de los estudiantes.
+                  p.mb-4 Este componente fomenta la articulación entre los sectores de salud y educación para garantizar que las necesidades de salud de los estudiantes sean atendidas de manera oportuna y efectiva; su objetivo es garantizar el acceso a servicios de salud integrales, con énfasis en la prevención y el cuidado continuo de los estudiantes.
                   .bg-color-4.mb-4
                       h3.px-3.py-1 Incluye acciones como:
                   ul.lista-ul--color.mb-0
@@ -196,7 +196,7 @@
                       p.mb-0  Identificar necesidades y prioridades locales, para ajustar las estrategias de acuerdo con cada contexto.
                     li.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0  Genera información útil para la toma de decisiones basada en evidencia, que permita mejorar los programas y políticas escolares.
+                      p.mb-0  Generar información útil para la toma de decisiones basada en evidencia, que permita mejorar los programas y políticas escolares.
 
               p.mb-4.mt-5 #[b b) Abogacía:] es un mecanismo estratégico de sensibilización y movilización que busca:
               ul.lista-ul--color.mb-0

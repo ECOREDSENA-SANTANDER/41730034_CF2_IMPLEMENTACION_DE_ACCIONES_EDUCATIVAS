@@ -16,7 +16,7 @@
             figure
               .video
                 iframe(width="560" height="315" src="https://www.youtube.com/embed/vEUYKyV6kwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-            figcaption Video. 
+            figcaption Video. Introducción - Intervención y evaluación en entornos saludables.
 
 </template>
 

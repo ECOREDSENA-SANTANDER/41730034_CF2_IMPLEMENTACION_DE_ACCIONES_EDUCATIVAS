@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 3
       h1 Elementos que debe incluir el PAIES según las directrices de la OMS/OPS
-    p.mb-4(data-aos="fade-left") De acuerdo con las recomendaciones establecidas por la Organización mundial de la salud (OMS) y la Organización panamericana de la salud (OPS), el Plan de acción integral para entornos saludables (PAIES) debe incorporar los siguientes elementos fundamentales para garantizar su efectividad y sostenibilidad:
+    p.mb-4(data-aos="fade-left") De acuerdo con las recomendaciones establecidas por la Organización mundial de la salud (OMS) y la Organización panamericana de la salud (OPS), el plan de acción integral para entornos saludables (PAIES) debe incorporar los siguientes elementos fundamentales para garantizar su efectividad y sostenibilidad:
     .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
       .col-auto.titulo-icono-img
         img(src='@/assets/bg/2.svg', alt='')
@@ -58,7 +58,7 @@
             .col-3.m-auto
               figure
                 img(src='@/assets/curso/temas/t3/7.svg')
-          p.text-center.mb-0 Orientarse a la transformación de los entornos socio - ambientales y a la mejora de la calidad de vida de la población, promoviendo el desarrollo sostenible y la equidad en salud.
+          p.text-center.mb-0 Orientarse a la transformación de los entornos socio-ambientales y a la mejora de la calidad de vida de la población, promoviendo el desarrollo sostenible y la equidad en salud.
 
 
     .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
@@ -113,7 +113,7 @@
                 .row.align-items-center.my-4.justify-content-center.hide-icon-sm
                     .col-sm-12.col-md-3.col-lg-5
                         img(src='@/assets/curso/temas/t3/12.svg', alt='')
-                p.mb-0.text-center La identificación y diseño de acciones específicas para establecer o fortalecer programas dirigidos a la caracterización y seguimiento de las condiciones socio - ambientales y sanitarias de los entornos.
+                p.mb-0.text-center La identificación y diseño de acciones específicas para establecer o fortalecer programas dirigidos a la caracterización y seguimiento de las condiciones socio-ambientales y sanitarias de los entornos.
 
               .tarjeta.bg-fondo-9.p-3.p-md-3.p-lg-5
                 .row.align-items-center.my-4.justify-content-center.hide-icon-sm
@@ -211,7 +211,7 @@
                 .row.align-items-center.my-4.justify-content-center.hide-icon-sm
                     .col-sm-12.col-md-3.col-lg-5
                         img(src='@/assets/curso/temas/t3/22.svg', alt='')
-                p.mb-0.text-center Indicadores para evaluar el fortalecimiento de la gestión territorial de la EES
+                p.mb-0.text-center Indicadores para evaluar el fortalecimiento de la gestión territorial de la EES.
           
               .tarjeta.bg-fondo-9.p-3.p-md-3.p-lg-5
                 .row.align-items-center.my-4.justify-content-center.hide-icon-sm
@@ -235,7 +235,7 @@
       .col-auto.titulo-icono-img
         img(src='@/assets/bg/2.svg', alt='')
       .col
-        h3.mb-0.titulo-icono-text.p-0 Indicadores para evaluar los programas de caracterización y seguimiento de las condiciones socio - ambientales y sanitarias del entorno
+        h3.mb-0.titulo-icono-text.p-0 Indicadores para evaluar los programas de caracterización y seguimiento de las condiciones socio-ambientales y sanitarias del entorno
 
     .tarjeta--container.row.mb-5(data-aos="fade-left")
       .col-md.tarjeta.bg-fondo-14.p-4.p-md-4.p-lg-5.mb-cus
@@ -251,13 +251,13 @@
             .row.align-items-end.justify-content-start
               .col-lg-3.mb-4.d-none.d-lg-block
                 img.img-a.img-t(src='@/assets/curso/temas/t3/27.svg')
-            p.mb-2   Número de diagnósticos integrales realizados para evaluar las condiciones socio - ambientales y sanitarias del entorno, incluyendo acceso a servicios básicos, manejo de residuos, condiciones de infraestructura, y factores de riesgo ambiental.
+            p.mb-2   Número de diagnósticos integrales realizados para evaluar las condiciones socio-ambientales y sanitarias del entorno, incluyendo acceso a servicios básicos, manejo de residuos, condiciones de infraestructura, y factores de riesgo ambiental.
   
     .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
       .col-auto.titulo-icono-img
         img(src='@/assets/bg/2.svg', alt='')
       .col
-        h3.mb-0.titulo-icono-text.p-0 Indicadores para evaluar el desarrollo de acciones integrales intersectoriales para la  mejora de las condiciones socio - ambientales y sanitarias del entorno
+        h3.mb-0.titulo-icono-text.p-0 Indicadores para evaluar el desarrollo de acciones integrales intersectoriales para la  mejora de las condiciones socio-ambientales y sanitarias del entorno
 
     ul.lista-ul.lista-ul--separador(data-aos="fade-left")
       li.d-flex
@@ -266,7 +266,7 @@
 
       li.d-flex
         i.fas.fa-check-circle.bg-color-3
-        p.mb-0  Porcentaje de acciones de formación y sensibilización comunitaria realizadas en el marco de la EES (enfocadas en promoción de la salud, medio ambiente, convivencia, entre otros).
+        p.mb-0  Porcentaje de acciones de formación y sensibilización comunitaria realizadas en el marco de la EES (enfocadas en promoción de la salud, medioambiente, convivencia, entre otros).
 
       li.d-flex
         i.fas.fa-check-circle.bg-color-3

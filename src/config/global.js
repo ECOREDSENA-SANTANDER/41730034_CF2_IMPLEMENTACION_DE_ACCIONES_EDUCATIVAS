@@ -259,7 +259,7 @@ export default {
           nombre: 'Eliana Milena Buitrago Umaña',
           cargo: 'Experta temática',
           centro:
-            'Centro de gestión de mercados, logística y tecnologías de la información - Regional Distrito Capital',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Laura Paola Gelvez Monsalva',

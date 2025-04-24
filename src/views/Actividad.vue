@@ -254,7 +254,10 @@ export default {
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
       ],
-      mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',
+      titulo_reprobado: 'No ha superado la actividad',
+      titulo_aprobado: '¡Excelente trabajo!',
+      mensaje_final_aprobado:
+        'Posee una buena comprensión sobre el conocimiento de intervención y evaluación en entornos saludables.',
       mensaje_final_reprobado:
         'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },

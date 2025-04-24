@@ -18,7 +18,7 @@
       .col-auto.titulo-icono-img
         img(src='@/assets/bg/2.svg', alt='')
       .col
-        h3.mb-0.titulo-icono-text.p-0 Responsabilidades clave de las entidades territoriales:
+        h3.mb-0.titulo-icono-text.p-0 Responsabilidades clave de las entidades territoriales
     
     .tarjeta--container.row.mb-4(data-aos="fade-left")
       .col-md.tarjeta.bg-fondo-6.p-4.p-md-4.p-lg-5
@@ -57,7 +57,7 @@
         .col-auto.titulo-icono-img
           img(src='@/assets/bg/2.svg', alt='')
         .col
-          h3.mb-0.titulo-icono-text.p-0 Objetivos de la evaluación de la EES:
+          h3.mb-0.titulo-icono-text.p-0 Objetivos de la evaluación de la EES
    
     .bg-full-width.bg-fondo-8.mb-5(data-aos="fade-left")
       .p-4.p-md-5
@@ -96,7 +96,7 @@
         .col-auto.titulo-icono-img
           img(src='@/assets/bg/2.svg', alt='')
         .col
-          h3.mb-0.titulo-icono-text.p-0 Importancia del enfoque intersectorial en la evaluación: 
+          h3.mb-0.titulo-icono-text.p-0 Importancia del enfoque intersectorial en la evaluación
     
     .row.justify-content-center.align-items-end.mb-4(data-aos="fade-left")
       .col-lg-7.col-md-12.col-sm-12
@@ -172,13 +172,13 @@
                 .row.align-items-end.justify-content-start
                   .col-lg-3.mb-4.d-none.d-lg-block
                     img.img-a.img-t(src='@/assets/curso/temas/t2/7.svg')
-                p.mb-5 Elaborar y orientar el plan de acción Intersectorial de entornos saludables.
+                p.mb-5 Elaborar y orientar el plan de acción intersectorial de entornos saludables.
 
         .row.align-items-center.mb-5.titulo-icono
             .col-auto.titulo-icono-img
               img(src='@/assets/bg/2.svg', alt='')
             .col
-              h3.mb-0.titulo-icono-text.p-0 b) Gestión territorial de la estrategia de entornos saludables: 
+              h3.mb-0.titulo-icono-text.p-0 b) Gestión territorial de la estrategia de entornos saludables
 
 
         .row.justify-content-center.align-items-center.mb-
@@ -195,7 +195,7 @@
         .col-auto.titulo-icono-img
           img(src='@/assets/bg/2.svg', alt='')
         .col
-          h3.mb-0.titulo-icono-text.p-0 c) Planeación interinstitucional de entornos saludables (PAIES): 
+          h3.mb-0.titulo-icono-text.p-0 c) Planeación interinstitucional de entornos saludables (PAIES)
     p.mb-4(data-aos="fade-left") Proceso que garantiza la coordinación entre sectores y niveles de gobierno para una implementación efectiva, incluye las siguientes acciones:
     ul.lista-ul.lista-ul--separador.mb-5(data-aos="fade-left")
       li.d-flex
@@ -237,8 +237,7 @@
     .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-sm-12.col-lg-10
         .tabla-a.color-acento-botones 
-          table
-            caption Referencia Tabla - Norma APA
+          table(alt="Tabla que muestra las fases del proceso PAIES: diagnóstico, elaboración, implementación, supervisión, evaluación, diagnóstico repetido y nueva elaboración. Cada fase incluye actividades como identificación de necesidades, diseño participativo, ejecución de estrategias, seguimiento, análisis de resultados y ajustes.")
             thead
               tr
                 th Fase
@@ -246,25 +245,25 @@
             tbody
               tr
                 td Diagnóstico PAIES
-                td Identificación de las condiciones, necesidades y
+                td Identificación de las condiciones, necesidades y oportunidades del entorno.
               tr
                 td Elaboración PAIES
-                td Diseño participativo del plan de acción
+                td Diseño participativo del plan de acción interinstitucional.
               tr
                 td Implementación PAIES
-                td Ejecución de las estrategias y actividades
+                td Ejecución de las estrategias y actividades diseñadas.
               tr
                 td Supervisión y seguimiento
-                td Evaluación de la correcta ejecución del plan y
+                td Evaluación de la correcta ejecución del plan y ajuste de acciones.
               tr
                 td Evaluación PAIES
-                td Análisis de resultados e impacto de las
+                td Análisis de resultados e impacto de las intervenciones.
               tr
                 td Diagnóstico PAIES
-                td Identificación de las condiciones, necesidades y
+                td Identificación de las condiciones, necesidades y oportunidades del entorno.
               tr
                 td Elaboración PAIES
-                td Diseño participativo del plan de acción
+                td Diseño participativo del plan de acción interinstitucional.
 
 
     .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
@@ -330,7 +329,7 @@
       .col-auto.titulo-icono-img
         img(src='@/assets/bg/2.svg', alt='')
       .col
-        h3.mb-0.titulo-icono-text.p-0 Formulación del PAIES
+        h3.mb-0.titulo-icono-text.p-0 Fase de diagnóstico
     p.mb-4(data-aos="fade-left") La fase de diagnóstico corresponde al proceso inicial en el que se realiza una revisión exhaustiva de las condiciones sociales, ambientales y sanitarias del territorio, con el fin de contar con una línea base sólida para la toma de decisiones, en esta fase se deben definir las zonas y grupos poblacionales de interés, poniendo especial atención a aquellos sectores que presentan mayores niveles de vulnerabilidad o exposición a riesgos socioambientales. 
     .bloque-texto-g.bg-fondo-5.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
       .bloque-texto-g__img(
@@ -350,7 +349,7 @@
         img(src='@/assets/curso/temas/t2/25.png', alt='')
       .col-lg-7.col-sm-12.col-md-12.bg-color-6.align-content-center
         .border-top-cus 
-          p.px-4.mt-3 Un componente clave de esta fase es la selección de acciones económica y socialmente viables, mediante la aplicación de análisis de costo - beneficio que permitan maximizar el impacto de las intervenciones con un uso eficiente de los recursos, asimismo, es fundamental definir un orden de prioridad para la ejecución de las acciones, considerando criterios como la urgencia de las problemáticas, el impacto esperado y la disponibilidad de recursos, finalmente, para garantizar la legitimidad y la sostenibilidad del PAIES, se debe realizar un proceso de consulta pública y concertación con la comunidad y los actores territoriales, promoviendo la participación activa de la ciudadanía en la identificación de soluciones y el seguimiento a la implementación del plan.
+          p.px-4.mt-3 Un componente clave de esta fase es la selección de acciones económica y socialmente viables, mediante la aplicación de análisis de costo-beneficio que permitan maximizar el impacto de las intervenciones con un uso eficiente de los recursos, asimismo, es fundamental definir un orden de prioridad para la ejecución de las acciones, considerando criterios como la urgencia de las problemáticas, el impacto esperado y la disponibilidad de recursos. Finalmente, para garantizar la legitimidad y la sostenibilidad del PAIES, se debe realizar un proceso de consulta pública y concertación con la comunidad y los actores territoriales, promoviendo la participación activa de la ciudadanía en la identificación de soluciones y el seguimiento a la implementación del plan.
         
 
     p.mb-4(data-aos="fade-left") Este proceso de formulación no solo permite diseñar un plan coherente y articulado, sino también fortalecer la gobernanza territorial en salud ambiental, promoviendo la cooperación intersectorial y la corresponsabilidad entre las instituciones y la sociedad civil. En suma, el PAIES se proyecta como una herramienta estratégica para promover entornos saludables, sostenibles e inclusivos, que contribuyan a mejorar la calidad de vida de la población y a reducir las inequidades sociales y ambientales.
