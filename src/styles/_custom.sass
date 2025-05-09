@@ -60,7 +60,12 @@
 
 .tabla-a thead 
     background-color: #EFFBE9;
-
+.tabs-c__header
+  margin-bottom: 0 !important
+.tabs-c
+  border: 0 !important
+.tabs-c__tab--active span
+  font-weight: 700 !important
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -130,6 +135,13 @@
     background-repeat: no-repeat
     background-color: #B5AEE0
     height: 100px
+  &-16
+    background-image: url("../assets/bg/11.svg") !important
+    background-size: cover
+    background-repeat: no-repeat
+    background-color: #fff
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1)
+
 .bg-color
   &-1
     background-color: #EDEBF7 !important
@@ -156,7 +168,20 @@
     background-color: #FFEDCC
   &-8
     background-color: #F8F1FC
-
+  &-9
+    background-color: #DAD7EF
+  &-10
+    background-color: #F0E3FA
+    border-radius: 30px
+    width: fit-content
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+  &-11
+    background-color: #EFFBE9
+  &-12
+    background-color: #DAD7EF
+  &-13
+    background-color: #FFA500
 .border-top-cus::before
     content: ' ';
     display: block;
@@ -166,7 +191,15 @@
     position: relative;
     left: 20px;
       
-
+.border-top-cus-2::before
+    content: ' ';
+    display: block;
+    width: 50px;
+    height: 0px;
+    border: 5px #12263F solid;
+    position: relative;
+    left: 20px;
+      
 
 .titulo-icono
   background-color: $color-acento-contenido
@@ -253,7 +286,7 @@
     height: auto
   .mb-cus
     margin-bottom: 2em  !important  
-  .bg-fondo-9
+  .bg-fondo-9, .bg-fondo-14
     background-size: 108%;
     border-radius: 20px;
   .hcard
@@ -298,7 +331,7 @@
     padding-left: 0 !important;
   .pe-3
     padding-right: 0 !important;
-  .bg-fondo-9
+  .bg-fondo-9, .bg-fondo-14
     background-size: auto;
   .bg-fondo-6, .bg-fondo-7
       background-size: cover;
@@ -313,3 +346,6 @@
   .tarjeta.bg-fondo-14,
   .tarjeta.bg-fondo-15
     height: auto
+  .bg-color-10
+    padding: 20px !important 
+    border-radius: 20px;

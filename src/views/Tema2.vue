@@ -122,7 +122,7 @@
         .col-auto.titulo-icono-img
           img(src='@/assets/bg/2.svg', alt='')
         .col
-          h3.mb-0.titulo-icono-text.p-0 a) Comité técnico nacional de entornos saludables
+          h3.mb-0.titulo-icono-text.p-0 Comité técnico nacional de entornos saludables
     p.mb-4(data-aos="fade-left") Este comité lidera y orienta la implementación de la estrategia a nivel nacional y está conformado por entidades clave como:
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-sm-12.col-lg-7
@@ -156,46 +156,44 @@
 
     .bg-color-4.mb-4(data-aos="fade-left")
         h3.px-3.py-1 Funciones principales:
-    .bg-full-width.bg-fondo-11.mb-5(data-aos="fade-left")
-      .px-4.px-md-5.pb-md-3
-        .tarjeta--container.row.mb-4
-          .col-md.tarjeta.bg-fondo-6.p-4.p-md-4.p-lg-5
-            .row.justify-content-center.mb-1
-              .col-12
-                .row.align-items-end.justify-content-start
-                  .col-lg-3.mb-4.d-none.d-lg-block
-                    img.img-a.img-t(src='@/assets/curso/temas/t2/6.svg')
-                p.mb-5.text-white Definir y actualizar los lineamientos nacionales de la estrategia de entornos saludables.
-          .col-md.tarjeta.bg-fondo-7.p-4.p-md-4.p-lg-5
-            .row.justify-content-center.mb-1
-              .col-12
-                .row.align-items-end.justify-content-start
-                  .col-lg-3.mb-4.d-none.d-lg-block
-                    img.img-a.img-t(src='@/assets/curso/temas/t2/7.svg')
-                p.mb-5 Elaborar y orientar el plan de acción intersectorial de entornos saludables.
+    
+    .row.justify-content-center.mb-5
+      .col-sm-12.col-lg-4.d-none.d-lg-block
+        img(src='@/assets/curso/temas/t2/27.png', alt='')
+      .col-sm-12.col-lg-4
+        .bg-color-12.px-4.py-3
+          ul.lista-ul--color.mb-0
+            li.d-flex
+              i.fas.fa-check-circle.bg-color-3
+              p.mb-0 Definir y actualizar los lineamientos nacionales de la estrategia de entornos saludables.
+            li.d-flex.mb-0
+                i.fas.fa-check-circle.bg-color-3
+                p.mb-0 Elaborar y orientar el plan de acción intersectorial de entornos saludables.
+      .col-sm-12.col-lg-4.d-none.d-lg-block
+        img(src='@/assets/curso/temas/t2/26.png', alt='')
 
-        .row.align-items-center.mb-5.titulo-icono
-            .col-auto.titulo-icono-img
-              img(src='@/assets/bg/2.svg', alt='')
-            .col
-              h3.mb-0.titulo-icono-text.p-0 b) Gestión territorial de la estrategia de entornos saludables
+    .row.align-items-center.mb-5.titulo-icono
+        .col-auto.titulo-icono-img
+          img(src='@/assets/bg/2.svg', alt='')
+        .col
+          h3.mb-0.titulo-icono-text.p-0 Gestión territorial de la estrategia de entornos saludables
 
 
-        .row.justify-content-center.align-items-center.mb-
-          .col-sm-12.col-lg-10
-            .bg-fondo-10
-              .row.justify-content-center.align-items-center.mb-5
-                .col-sm-12.col-lg-4.d-none.d-lg-block
-                  img.hcard-1(src='@/assets/curso/temas/t2/17.png', alt='')
-                .col-sm-12.col-lg-4.bg-color-5.px-4.py-4.text-center.hcard-1.align-items-center
-                  i.fas.fa-check-circle.bg-color-3.m-auto.fa-2x.mb-4
-                  p.mb-0 Responsable de adaptar y ejecutar la estrategia a nivel departamental, municipal y local, asegurando que las acciones se alineen con las necesidades de cada territorio.
+    .row.justify-content-center.align-items-center.mb-
+      .col-sm-12.col-lg-10
+        .bg-fondo-10
+          .row.justify-content-center.align-items-center.mb-5
+            .col-sm-12.col-lg-4.d-none.d-lg-block
+              img.hcard-1(src='@/assets/curso/temas/t2/17.png', alt='')
+            .col-sm-12.col-lg-4.bg-color-5.px-4.py-4.text-center.hcard-1.align-items-center
+              i.fas.fa-check-circle.bg-color-3.m-auto.fa-2x.mb-4
+              p.mb-0 Responsable de adaptar y ejecutar la estrategia a nivel departamental, municipal y local, asegurando que las acciones se alineen con las necesidades de cada territorio.
 
     .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
           img(src='@/assets/bg/2.svg', alt='')
         .col
-          h3.mb-0.titulo-icono-text.p-0 c) Planeación interinstitucional de entornos saludables (PAIES)
+          h3.mb-0.titulo-icono-text.p-0 Planeación interinstitucional de entornos saludables (PAIES)
     p.mb-4(data-aos="fade-left") Proceso que garantiza la coordinación entre sectores y niveles de gobierno para una implementación efectiva, incluye las siguientes acciones:
     ul.lista-ul.lista-ul--separador.mb-5(data-aos="fade-left")
       li.d-flex
@@ -233,7 +231,7 @@
         .col-auto.titulo-icono-img
           img(src='@/assets/bg/2.svg', alt='')
         .col
-          h3.mb-0.titulo-icono-text.p-0 d) Fases del proceso PAIES
+          h3.mb-0.titulo-icono-text.p-0 Fases del proceso PAIES
     .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-sm-12.col-lg-10
         .tabla-a.color-acento-botones 
@@ -270,7 +268,7 @@
       .col-auto.titulo-icono-img
         img(src='@/assets/bg/2.svg', alt='')
       .col
-        h3.mb-0.titulo-icono-text.p-0 e) Participación comunitaria
+        h3.mb-0.titulo-icono-text.p-0 Participación comunitaria
 
     .bloque-texto-g.bg-fondo-5.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
       .bloque-texto-g__img(
@@ -282,7 +280,7 @@
       .col-auto.titulo-icono-img
         img(src='@/assets/bg/2.svg', alt='')
       .col
-        h3.mb-0.titulo-icono-text.p-0 f) Resultados esperados
+        h3.mb-0.titulo-icono-text.p-0 Resultados esperados
     p.mb-4(data-aos="fade-left") Proyectos y programas concretos en los diferentes entornos:
     ul.lista-ul.lista-ul--separador.mb-5(data-aos="fade-left")
       li.d-flex

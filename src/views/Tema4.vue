@@ -158,11 +158,11 @@
                 img(src='@/assets/curso/temas/t4/13.svg')
           p.text-center.mb-0 Condición de desarrollo comunitario y gestión ciudadana (organización comunitaria, participación social, acceso a recursos colectivos).
 
-    .row.justify-content-center.mb-5.bg-color-6(data-aos="fade-left")
+    .row.justify-content-center.mb-5.bg-color-13(data-aos="fade-left")
       .col-lg-5.col-6.col-md-8.p-0.d-none.d-lg-block
-        img(src='@/assets/curso/temas/t4/14.png', alt='')
+        img(src='@/assets/curso/temas/t4/14.svg', alt='')
       .col-lg-7.col-sm-12.col-md-12.align-content-center
-        .border-top-cus 
+        .border-top-cus-2 
           p.px-4.mt-3 Esta herramienta permite identificar de forma integral las fortalezas, necesidades y áreas de mejora de las viviendas y comunidades, siendo una base fundamental para la formulación de intervenciones sostenibles, es una herramienta de autodiagnóstico comunitario, diseñada para ser aplicada de manera conjunta por diversos actores clave, entre ellos se encuentran: autoridades locales, equipos técnicos, tomadores de decisiones, líderes comunitarios y ciudadanía en general, su carácter participativo busca fomentar la corresponsabilidad y el empoderamiento de las comunidades en la identificación, análisis y resolución de los problemas que afectan sus entornos de vida. Además, facilita la gestión, diseño y evaluación de planes, proyectos y programas orientados a mejorar las condiciones de habitabilidad y salud ambiental.
 
 

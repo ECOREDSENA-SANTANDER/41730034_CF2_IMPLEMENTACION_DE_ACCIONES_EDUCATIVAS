@@ -7,102 +7,83 @@
         span 3
       h1 Elementos que debe incluir el PAIES según las directrices de la OMS/OPS
     p.mb-4(data-aos="fade-left") De acuerdo con las recomendaciones establecidas por la Organización mundial de la salud (OMS) y la Organización panamericana de la salud (OPS), el plan de acción integral para entornos saludables (PAIES) debe incorporar los siguientes elementos fundamentales para garantizar su efectividad y sostenibilidad:
-    .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
-      .col-auto.titulo-icono-img
-        img(src='@/assets/bg/2.svg', alt='')
-      .col
-        h3.mb-0.titulo-icono-text.p-0 a) Justificación del PAIES en las zonas de interés
-    p.mb-4(data-aos="fade-left") Se debe presentar una descripción detallada que incluya:
-    
-    .tarjeta--container.row.mb-4(data-aos="fade-left")
-      .col-md.tarjeta.bg-fondo-14.p-4.p-md-4.p-lg-5.mb-cus
-        .row.justify-content-center.mb-1
-          .col-12
-            .row.align-items-end.justify-content-start
-              .col-lg-3.mb-4.d-none.d-lg-block
-                img.img-a.img-t(src='@/assets/curso/temas/t3/3.svg')
-            p.mb-2.text-white Información general sobre las características geográficas, así como la definición de los sectores económicos y sociales presentes en la zona, prestando especial atención a las condiciones de vulnerabilidad de la población.
-      .col-md.tarjeta.bg-fondo-15.p-4.p-md-4.p-lg-5
-        .row.justify-content-center.mb-1
-          .col-12
-            .row.align-items-end.justify-content-start
-              .col-lg-3.mb-4.d-none.d-lg-block
-                img.img-a.img-t(src='@/assets/curso/temas/t3/4.svg')
-            p.mb-2  Una caracterización integral de la situación social, ambiental y de salud de la comunidad, que contemple aspectos como acceso a servicios básicos, educación, empleo, condiciones sanitarias, y medioambientales. Esta caracterización debe basarse en un diagnóstico de línea de base que refleje las principales problemáticas y necesidades del entorno.
-
-    .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
-      .col-auto.titulo-icono-img
-        img(src='@/assets/bg/2.svg', alt='')
-      .col
-        h3.mb-0.titulo-icono-text.p-0 b) Definición de objetivos y metas
-    p.mb-4(data-aos="fade-left") Los objetivos y metas del PAIES deben:
-    
-    .row.justify-content-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-start.mb-5
+      .col-sm-12.col-lg-5
+        .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
+          .col-auto.titulo-icono-img
+            img(src='@/assets/bg/2.svg', alt='')
+          .col
+            h3.mb-0.titulo-icono-text.p-0 Justificación del PAIES en las zonas de interés
+        p.mb-4(data-aos="fade-left") Se debe presentar una descripción detallada que incluya:
+        ul.lista-ul.lista-ul.mb-cus
+          li.d-flex
+            i.fas.fa-check-circle.bg-color-3
+            p.mb-0 Información general sobre las características geográficas, así como la definición de los sectores económicos y sociales presentes en la zona, prestando especial atención a las condiciones de vulnerabilidad de la población.
+          li.d-flex.mb-0
+            i.fas.fa-check-circle.bg-color-3
+            p.mb-0  Una caracterización integral de la situación social, ambiental y de salud de la comunidad, que contemple aspectos como acceso a servicios básicos, educación, empleo, condiciones sanitarias, y medioambientales. Esta caracterización debe basarse en un diagnóstico de línea de base que refleje las principales problemáticas y necesidades del entorno.
+      .col-sm-12.col-lg-3.d-none.d-lg-block
+        img(src='@/assets/curso/temas/t3/28.svg', alt='')
       .col-sm-12.col-lg-4
-        .tarjeta--boton-2.bg-fondo-12.p-4.mb-cus
-          .row.justify-content-center.mb-3.d-none.d-lg-block
-            .col-3.m-auto
-              figure
-                img(src='@/assets/curso/temas/t3/5.svg')
-          p.text-center.mb-0 Estar claramente definidos y alineados con los problemas identificados en el diagnóstico de línea de base.
-      .col-sm-12.col-lg-4
-        .tarjeta--boton-2.bg-fondo-12.p-4.mb-cus
-          .row.justify-content-center.mb-3.d-none.d-lg-block
-            .col-3.m-auto
-              figure
-                img(src='@/assets/curso/temas/t3/6.svg')
-          p.text-center.mb-0  Ser específicos, medibles, alcanzables, relevantes y con un plazo temporal definido (siguiendo la metodología SMART).
-      .col-sm-12.col-lg-4
-        .tarjeta--boton-2.bg-fondo-12.p-4.mb-cus
-          .row.justify-content-center.mb-3.d-none.d-lg-block
-            .col-3.m-auto
-              figure
-                img(src='@/assets/curso/temas/t3/7.svg')
-          p.text-center.mb-0 Orientarse a la transformación de los entornos socio-ambientales y a la mejora de la calidad de vida de la población, promoviendo el desarrollo sostenible y la equidad en salud.
-
-
-    .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
-      .col-auto.titulo-icono-img
-        img(src='@/assets/bg/2.svg', alt='')
-      .col
-        h3.mb-0.titulo-icono-text.p-0 c) Indicadores para la evaluación de la estrategia
-    p.mb-4(data-aos="fade-left") Para garantizar el monitoreo y evaluación de la estrategia, se deben considerar indicadores que:
+        .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
+          .col-auto.titulo-icono-img
+            img(src='@/assets/bg/2.svg', alt='')
+          .col
+            h3.mb-0.titulo-icono-text.p-0 Definición de objetivos y metas
+        p.mb-4(data-aos="fade-left") Los objetivos y metas del PAIES deben:
+        ul.lista-ul.lista-ul.mb-0
+          li.d-flex
+            i.fas.fa-check-circle.bg-color-3
+            p.mb-0 Estar claramente definidos y alineados con los problemas identificados en el diagnóstico de línea de base.
+          li.d-flex
+            i.fas.fa-check-circle.bg-color-3
+            p.mb-0 Ser específicos, medibles, alcanzables, relevantes y con un plazo temporal definido (siguiendo la metodología SMART).
+          li.d-flex.mb-0
+            i.fas.fa-check-circle.bg-color-3
+            p.mb-0 Orientarse a la transformación de los entornos socio-ambientales y a la mejora de la calidad de vida de la población, promoviendo el desarrollo sostenible y la equidad en salud.
     
-    .row.justify-content-center.mb-5(data-aos="fade-left")
-      .col-sm-12.col-lg-3
-        .tarjeta--boton.bg-fondo-13.p-4.mb-cus
-          .row.justify-content-center.mb-3.d-none.d-lg-block
-            .col-3.m-auto
-              figure
-                img(src='@/assets/curso/temas/t3/8.svg')
-          p.text-center.mb-0  Sean específicos, claros y relevantes para los objetivos del programa.
-      .col-sm-12.col-lg-3
-        .tarjeta--boton.bg-fondo-13.p-4.mb-cus
-          .row.justify-content-center.mb-3.d-none.d-lg-block
-            .col-3.m-auto
-              figure
-                img(src='@/assets/curso/temas/t3/9.svg')
-          p.text-center.mb-0  Incluyan diferentes tipos de indicadores: de gestión (procesos), de insumo, de producto, de resultado e impacto.
-      .col-sm-12.col-lg-3
-        .tarjeta--boton.bg-fondo-13.p-4.mb-cus
-          .row.justify-content-center.mb-3.d-none.d-lg-block
-            .col-3.m-auto
-              figure
-                img(src='@/assets/curso/temas/t3/10.svg')
-          p.text-center.mb-0 Sean medibles y permitan una evaluación cuantitativa y cualitativa, facilitando la toma de decisiones basada en evidencia.
-      .col-sm-12.col-lg-3
-        .tarjeta--boton.bg-fondo-13.p-4.mb-cus
-          .row.justify-content-center.mb-3.d-none.d-lg-block
-            .col-3.m-auto
-              figure
-                img(src='@/assets/curso/temas/t3/11.svg')
-          p.text-center.mb-0 Permitan evaluar tanto los avances en la implementación de acciones como los cambios logrados en la salud y bienestar de la población.
+      
+
+    
+
 
     .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
       .col-auto.titulo-icono-img
         img(src='@/assets/bg/2.svg', alt='')
       .col
-        h3.mb-0.titulo-icono-text.p-0 d) Programación de las acciones sectoriales e intersectoriales
+        h3.mb-0.titulo-icono-text.p-0 Indicadores para la evaluación de la estrategia
+    
+    .row.justify-content-center.mb-5
+      .col-sm-12.col-lg-5.d-none.d-lg-block
+        img(src='@/assets/curso/temas/t3/29.png', alt='')
+
+      .col-sm-12.col-lg-1.d-none.d-lg-block
+        img(src='@/assets/curso/temas/t3/30.svg', alt='')
+      .col-sm-12.col-lg-6
+        p.mb-3(data-aos="fade-left") Para garantizar el monitoreo y evaluación de la estrategia, se deben considerar indicadores que:
+        ul.lista-ul.lista-ul.mb-0
+          li.d-flex
+            i.fas.fa-check-circle.bg-color-3
+            p.mb-0 Sean específicos, claros y relevantes para los objetivos del programa.
+          li.d-flex
+            i.fas.fa-check-circle.bg-color-3
+            p.mb-0 Incluyan diferentes tipos de indicadores: de gestión (procesos), de insumo, de producto, de resultado e impacto.
+          li.d-flex
+            i.fas.fa-check-circle.bg-color-3
+            p.mb-0 Sean medibles y permitan una evaluación cuantitativa y cualitativa, facilitando la toma de decisiones basada en evidencia.
+          li.d-flex.mb-0
+            i.fas.fa-check-circle.bg-color-3
+            p.mb-0 Permitan evaluar tanto los avances en la implementación de acciones como los cambios logrados en la salud y bienestar de la población.
+
+
+
+
+
+    .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
+      .col-auto.titulo-icono-img
+        img(src='@/assets/bg/2.svg', alt='')
+      .col
+        h3.mb-0.titulo-icono-text.p-0 Programación de las acciones sectoriales e intersectoriales
     p.mb-4(data-aos="fade-left") Este componente debe incluir:
     .bg-full-width.bg-fondo-8.mb-5(data-aos="fade-left")
       .p-4.p-md-5
@@ -132,7 +113,7 @@
       .col-auto.titulo-icono-img
         img(src='@/assets/bg/2.svg', alt='')
       .col
-        h3.mb-0.titulo-icono-text.p-0 e) Cronograma, financiamiento y asignación de roles y responsabilidades
+        h3.mb-0.titulo-icono-text.p-0 Cronograma, financiamiento y asignación de roles y responsabilidades
     p.mb-4(data-aos="fade-left") Este componente debe incluir: 
     .tarjeta--container.row.mb-4(data-aos="fade-left")
       .col-md.tarjeta.p-3
@@ -169,7 +150,7 @@
       .col-auto.titulo-icono-img
         img(src='@/assets/bg/2.svg', alt='')
       .col
-        h3.mb-0.titulo-icono-text.p-0 f) Mecanismos de participación comunitaria y sostenibilidad
+        h3.mb-0.titulo-icono-text.p-0 Mecanismos de participación comunitaria y sostenibilidad
     
     .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-sm-12.col-lg-4
@@ -193,11 +174,8 @@
               figure
                 img(src='@/assets/curso/temas/t3/21.svg')
           p.text-center.mb-0 Integración de procesos educativos y de sensibilización sobre la importancia de los entornos saludables, fomentando el empoderamiento social.
-    .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
-      .col-auto.titulo-icono-img
-        img(src='@/assets/bg/2.svg', alt='')
-      .col
-        h3.mb-0.titulo-icono-text.p-0 Indicadores a monitorear para la evaluación de la estrategia de entornos saludables (EES)
+    .bg-color-10.mb-4
+      h3.py-1 Indicadores a monitorear para la evaluación de la estrategia de entornos saludables (EES)
 
 
     .bg-full-width.bg-fondo-8.mb-5(data-aos="fade-left")
@@ -231,11 +209,8 @@
                         img(src='@/assets/curso/temas/t3/25.svg', alt='')
                 p.mb-0.text-center Número de municipios del departamento que han desarrollado programas de acción integral en entornos saludables (PAIES) conforme a los lineamientos técnicos nacionales.
 
-    .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
-      .col-auto.titulo-icono-img
-        img(src='@/assets/bg/2.svg', alt='')
-      .col
-        h3.mb-0.titulo-icono-text.p-0 Indicadores para evaluar los programas de caracterización y seguimiento de las condiciones socio-ambientales y sanitarias del entorno
+    .bg-color-10.mb-4
+      h3.py-2 Indicadores para evaluar los programas de caracterización y seguimiento de las condiciones socio-ambientales y sanitarias del entorno
 
     .tarjeta--container.row.mb-5(data-aos="fade-left")
       .col-md.tarjeta.bg-fondo-14.p-4.p-md-4.p-lg-5.mb-cus
@@ -253,11 +228,8 @@
                 img.img-a.img-t(src='@/assets/curso/temas/t3/27.svg')
             p.mb-2   Número de diagnósticos integrales realizados para evaluar las condiciones socio-ambientales y sanitarias del entorno, incluyendo acceso a servicios básicos, manejo de residuos, condiciones de infraestructura, y factores de riesgo ambiental.
   
-    .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
-      .col-auto.titulo-icono-img
-        img(src='@/assets/bg/2.svg', alt='')
-      .col
-        h3.mb-0.titulo-icono-text.p-0 Indicadores para evaluar el desarrollo de acciones integrales intersectoriales para la  mejora de las condiciones socio-ambientales y sanitarias del entorno
+    .bg-color-10.mb-4
+            h3.py-2 Indicadores para evaluar el desarrollo de acciones integrales intersectoriales para la  mejora de las condiciones socio-ambientales y sanitarias del entorno
 
     ul.lista-ul.lista-ul--separador(data-aos="fade-left")
       li.d-flex
