@@ -5,8 +5,8 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 1
-        h1 Estrategia de escuelas saludables
-      p.mb-5(data-aos="fade-left") La organización mundial de la salud (OMS) y la organización panamericana de la salud (OPS) definen la escuela saludable como un espacio que promueve el bienestar integral de la comunidad educativa a través de acciones coordinadas de promoción y protección de la salud.
+        h1 Estrategia de Escuelas Saludables
+      p.mb-5(data-aos="fade-left") La Organización Mundial de la Salud (OMS) y la Organización Panamericana de la Salud (OPS) definen la escuela saludable como un espacio que promueve el bienestar integral de la comunidad educativa a través de acciones coordinadas de promoción y protección de la salud.
       .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
           img(src='@/assets/bg/2.svg', alt='')
@@ -52,7 +52,7 @@
         .col-auto.titulo-icono-img
           img(src='@/assets/bg/2.svg', alt='')
         .col
-          h3.mb-0.titulo-icono-text.p-0  Objetivos de la estrategia de escuelas saludables  
+          h3.mb-0.titulo-icono-text.p-0  Objetivos de la Estrategia de Escuelas Saludables  
     
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-4.d-none.d-lg-block
@@ -95,20 +95,20 @@
         .col-auto.titulo-icono-img
           img(src='@/assets/bg/2.svg', alt='')
         .col
-          h3.mb-0.titulo-icono-text.p-0 Componentes de la estrategia de escuela saludable
+          h3.mb-0.titulo-icono-text.p-0 Componentes de la Estrategia de Escuela Saludable
       
       .bloque-texto-g.bloque-texto-g--inverso.bg-fondo-4.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
         .bloque-texto-g__img.bg-color-1.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/9.png')
 
         .bloque-texto-g__texto.p-4
-          p.mb-0 De acuerdo con los lineamientos actualizados del ministerio de salud y protección social, la estrategia de escuela saludable (EES) se basa en cinco componentes fundamentales que buscan promover la salud y el bienestar integral en el entorno escolar. Esta estrategia se desarrolla a través de un enfoque intersectorial y participativo, que articula esfuerzos del sector educativo, salud, familia y comunidad, y que promueve acciones tanto a nivel individual como colectivo dentro de las instituciones educativas.
+          p.mb-0 De acuerdo con los lineamientos actualizados del Ministerio de Salud y Protección Social, la Estrategia de Escuela Saludable (EES) se basa en cinco componentes fundamentales que buscan promover la salud y el bienestar integral en el entorno escolar. Esta estrategia se desarrolla a través de un enfoque intersectorial y participativo, que articula esfuerzos del sector educativo, salud, familia y comunidad, y que promueve acciones tanto a nivel individual como colectivo dentro de las instituciones educativas.
       
       .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
           img(src='@/assets/bg/2.svg', alt='')
         .col
-          h3.mb-0.titulo-icono-text.p-0 Cinco componentes clave de la estrategia de escuela saludable
+          h3.mb-0.titulo-icono-text.p-0 Cinco componentes clave de la Estrategia de Escuela Saludable
 
       
       .row.mb-3.bg-color-9.p-4
@@ -145,7 +145,7 @@
           img(src='@/assets/curso/temas/t1/14.svg', alt='')
         .col-sm-12.col-lg-9.justify-content-center.align-items-center
           h5.mb-3 4. Educación para la salud
-          p.mb-0 Este componente integra contenidos y metodologías sobre promoción de la salud dentro del currículo escolar y el proyecto educativo institucional (PEI). Se busca desarrollar en los estudiantes habilidades para la vida como la toma de decisiones saludables, la prevención de riesgos, la convivencia pacífica y la gestión emocional, asimismo, promueve la capacitación continua del personal docente y la disponibilidad de materiales educativos actualizados. Tiene como objetivo formar estudiantes capaces de cuidar su salud física, emocional y social, y de participar activamente en la construcción de entornos saludables.
+          p.mb-0 Este componente integra contenidos y metodologías sobre promoción de la salud dentro del currículo escolar y el Proyecto Educativo Institucional (PEI). Se busca desarrollar en los estudiantes habilidades para la vida como la toma de decisiones saludables, la prevención de riesgos, la convivencia pacífica y la gestión emocional, asimismo, promueve la capacitación continua del personal docente y la disponibilidad de materiales educativos actualizados. Tiene como objetivo formar estudiantes capaces de cuidar su salud física, emocional y social, y de participar activamente en la construcción de entornos saludables.
         
       .row.mb-5.bg-color-9.p-4
         .col-sm-12.col-lg-9.justify-content-center
@@ -189,7 +189,7 @@
         .bloque-texto-g__texto.p-4.my-0.d-flex.flex-column.justify-content-center
           .bg-color-10.mb-4
             h3.py-1 Intervenciones transversales a los componentes
-          p.mb-0  Además de los cinco componentes principales, la estrategia de escuelas saludables (EES) incluye intervenciones transversales que fortalecen su implementación y aseguran una mirada integral de la salud en el entorno educativo, estas intervenciones fueron definidas por la organización mundial de la salud (OMS) y la organización panamericana de la salud (OPS) como elementos clave para garantizar que las acciones en las escuelas tengan un impacto sostenible y efectivo.
+          p.mb-0  Además de los cinco componentes principales, la Estrategia de Escuelas Saludables (EES) incluye intervenciones transversales que fortalecen su implementación y aseguran una mirada integral de la salud en el entorno educativo, estas intervenciones fueron definidas por la Organización Mundial de la Salud (OMS) y la Organización Panamericana de la Salud (OPS) como elementos clave para garantizar que las acciones en las escuelas tengan un impacto sostenible y efectivo.
       
       p.mb-4 Las intervenciones transversales complementan y atraviesan todos los componentes de la estrategia, facilitando la integración de la salud en todos los niveles y espacios de la vida escolar. Estas son: 
       TabsC.color-acento-contenido
@@ -236,7 +236,7 @@
                       p.mb-0 Promueve la inclusión de la estrategia en las políticas públicas y en los planes de desarrollo a nivel nacional y local.
                     li.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Actualmente, la abogacía también está vinculada al cumplimiento de objetivos internacionales, como los objetivos de desarrollo sostenible (ODS), relacionados con salud, educación de calidad, equidad y bienestar.
+                      p.mb-0 Actualmente, la abogacía también está vinculada al cumplimiento de objetivos internacionales, como los Objetivos de Desarrollo Sostenible (ODS), relacionados con salud, educación de calidad, equidad y bienestar.
 
         .bg-color-11.p-3.p-md-4(titulo="Gestión y movilización de recursos")
           .row.justify-content-center.align-items-center.mb-0

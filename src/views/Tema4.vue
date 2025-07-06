@@ -5,13 +5,13 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Directrices para la caracterización y seguimiento de la estrategia de entornos saludables (EES)
-    p.mb-4(data-aos="fade-left") La organización mundial de la salud (OMS) y la organización panamericana de la salud (OPS) (2009) establecieron que para una adecuada gestión de las condiciones socio-ambientales y sanitarias en cada uno de los subprogramas de la estrategia de entornos saludables (EES), es fundamental contar con un proceso sistemático de caracterización y seguimiento, por ello, se recomienda que los programas de caracterización y monitoreo incluyan, al menos, los siguientes componentes fundamentales:
+      h1 Directrices para la caracterización y seguimiento de la Estrategia de Entornos Saludables (EES)
+    p.mb-4(data-aos="fade-left") La Organización Mundial de la Salud (OMS) y la Organización Panamericana de la Salud (OPS) (2009) establecieron que para una adecuada gestión de las condiciones socio-ambientales y sanitarias en cada uno de los subprogramas de la Estrategia de Entornos Saludables (EES), es fundamental contar con un proceso sistemático de caracterización y seguimiento, por ello, se recomienda que los programas de caracterización y monitoreo incluyan, al menos, los siguientes componentes fundamentales:
     .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
       .col-auto.titulo-icono-img
         img(src='@/assets/bg/2.svg', alt='')
       .col
-        h3.mb-0.titulo-icono-text.p-0 Sistema de caracterización comunitaria para la estrategia de viviendas saludables (EVS)
+        h3.mb-0.titulo-icono-text.p-0 Sistema de caracterización comunitaria para la Estrategia de Viviendas Saludables (EVS)
     .row.justify-content-center.mb-5.bg-color-6(data-aos="fade-left")
       .col-lg-5.col-6.col-md-8.p-0.d-none.d-lg-block
         img(src='@/assets/curso/temas/t4/1.png', alt='')
@@ -25,7 +25,7 @@
       .col-auto.titulo-icono-img
         img(src='@/assets/bg/2.svg', alt='')
       .col
-        h3.mb-0.titulo-icono-text.p-0 Sistema de caracterización institucional para la estrategia de escuelas saludables (EES)
+        h3.mb-0.titulo-icono-text.p-0 Sistema de caracterización institucional para la Estrategia de Escuelas Saludables (EES)
     .bloque-texto-g.bg-fondo-5.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/t4/2.png')})`}"
@@ -40,7 +40,7 @@
       .col-auto.titulo-icono-img
         img(src='@/assets/bg/2.svg', alt='')
       .col
-        h3.mb-0.titulo-icono-text.p-0 Sistema de caracterización laboral para la estrategia de lugares de trabajo saludables (ELTS)
+        h3.mb-0.titulo-icono-text.p-0 Sistema de caracterización laboral para la Estrategia de Lugares de Trabajo Saludables (ELTS)
     .bloque-texto-g.bloque-texto-g--inverso.bg-fondo-4.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
         .bloque-texto-g__img.bg-color-1.d-none.d-lg-block
           img(src='@/assets/curso/temas/t4/3.png')
@@ -110,7 +110,7 @@
         h3.mb-0.titulo-icono-text.p-0 Características de la herramienta para la caracterización de la vivienda a nivel comunitario
 
     .cajon.color-primario.p-4.mb-5(data-aos="fade-left")
-      p.mb-0 Concepto: la herramienta para la caracterización de la vivienda a nivel comunitario es un instrumento de autoevaluación utilizado antes (pre) y después (post) de la implementación de un programa o proyecto relacionado con la estrategia de entornos saludables (EES), esta herramienta facilita el diagnóstico participativo de las condiciones habitacionales, promoviendo una mirada integral de los factores que afectan la salud y el bienestar de las familias y comunidades.
+      p.mb-0 Concepto: la herramienta para la caracterización de la vivienda a nivel comunitario es un instrumento de autoevaluación utilizado antes (pre) y después (post) de la implementación de un programa o proyecto relacionado con la Estrategia de Entornos Saludables (EES), esta herramienta facilita el diagnóstico participativo de las condiciones habitacionales, promoviendo una mirada integral de los factores que afectan la salud y el bienestar de las familias y comunidades.
     p.mb-4(data-aos="fade-left") Su objetivo principal es diagnosticar las condiciones de la vivienda y su entorno habitacional a nivel comunitario, abarcando diversas dimensiones fundamentales. Entre los temas evaluados se encuentran:
     .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-sm-12.col-lg-4
@@ -173,7 +173,7 @@
         h3.mb-0.titulo-icono-text.p-0 Herramienta para la caracterización de la vivienda a nivel familiar
 
     .cajon.color-primario.p-4.mb-5(data-aos="fade-left")
-        p.mb-0 La Organización mundial de la salud (OMS) y la Organización panamericana de la salud (OPS) (2009), establecieron que las estrategias de intervención en viviendas a nivel familiar deben enfocarse en su mejoramiento progresivo, con el fin de lograr hogares que garanticen condiciones óptimas de salud, seguridad, calidad de vida y bienestar para las familias. A continuación, se describen los principales elementos y alcances de esta herramienta.
+        p.mb-0 La Organización Mundial de la Salud (OMS) y la Organización Panamericana de la Salud (OPS) (2009), establecieron que las estrategias de intervención en viviendas a nivel familiar deben enfocarse en su mejoramiento progresivo, con el fin de lograr hogares que garanticen condiciones óptimas de salud, seguridad, calidad de vida y bienestar para las familias. A continuación, se describen los principales elementos y alcances de esta herramienta.
 
 
 
@@ -315,7 +315,7 @@
       .col-sm-12.col-lg-5.d-none.d-lg-block
         img(src='@/assets/curso/temas/t4/17.png', alt='')
       .col-sm-12.col-lg-7
-        p.mb-0 Para finalizar, es importante destacar que la implementación de estas herramientas de caracterización, tanto a nivel comunitario, familiar, institucional y laboral, constituye un pilar fundamental para la adecuada gestión de la estrategia de entornos saludables (EES); al contar con diagnósticos integrales, participativos y basados en evidencias, se fortalece la capacidad de los territorios para diseñar e implementar intervenciones contextualizadas, sostenibles y orientadas a mejorar las condiciones de vida, salud y bienestar de las comunidades, también estos procesos de caracterización y seguimiento permiten avanzar hacia la equidad en salud, al identificar y priorizar las necesidades de los grupos más vulnerables, promoviendo así una respuesta intersectorial e inclusiva. Por lo tanto, las herramientas propuestas no solo facilitan la identificación de problemas y oportunidades, sino que también impulsan la participación activa de las comunidades, la articulación de los diferentes sectores y la toma de decisiones basadas en información actualizada y confiable, asegurando así la continuidad, eficacia y sostenibilidad de la estrategia a largo plazo.
+        p.mb-0 Para finalizar, es importante destacar que la implementación de estas herramientas de caracterización, tanto a nivel comunitario, familiar, institucional y laboral, constituye un pilar fundamental para la adecuada gestión de la Estrategia de Entornos Saludables (EES); al contar con diagnósticos integrales, participativos y basados en evidencias, se fortalece la capacidad de los territorios para diseñar e implementar intervenciones contextualizadas, sostenibles y orientadas a mejorar las condiciones de vida, salud y bienestar de las comunidades, también estos procesos de caracterización y seguimiento permiten avanzar hacia la equidad en salud, al identificar y priorizar las necesidades de los grupos más vulnerables, promoviendo así una respuesta intersectorial e inclusiva. Por lo tanto, las herramientas propuestas no solo facilitan la identificación de problemas y oportunidades, sino que también impulsan la participación activa de las comunidades, la articulación de los diferentes sectores y la toma de decisiones basadas en información actualizada y confiable, asegurando así la continuidad, eficacia y sostenibilidad de la estrategia a largo plazo.
 
 
 

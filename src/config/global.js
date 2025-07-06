@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Intervención y evaluación en entornos saludables',
     Description:
-      'Para incursionar en la promoción de la educación en entornos saludables, Colombia fortalece competencias pedagógicas dentro del plan decenal de salud pública (PDSP) 2012-2021 y la estrategia de entornos saludables (EES). Esta iniciativa busca mejorar la calidad de vida mediante acciones educativas centradas en la sostenibilidad ambiental, la salud pública y la equidad, alineadas con la carta de Ottawa de 1986.',
+      'Para incursionar en la promoción de la educación en entornos saludables, Colombia fortalece competencias pedagógicas dentro del Plan Decenal de Salud Pública (PDSP) 2012-2021 y la Estrategia de Entornos Saludables (EES). Esta iniciativa busca mejorar la calidad de vida mediante acciones educativas centradas en la sostenibilidad ambiental, la salud pública y la equidad, alineadas con la carta de Ottawa de 1986.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
@@ -36,25 +36,25 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Estrategia de escuelas saludables',
+        titulo: 'Estrategia de Escuelas Saludables',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Evaluación de la estrategia de entornos saludables (EES)',
+        titulo: 'Evaluación de la Estrategia de Entornos Saludables (EES)',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '2.1',
             titulo:
-              'Estructura general para la implementación de la estrategia de entornos saludables (EES)',
+              'Estructura general para la implementación de la Estrategia de Entornos Saludables (EES)',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
             titulo:
-              'Plan de acción intersectorial de entornos saludables (PAIES)',
+              'Plan de Acción Intersectorial de Entornos Saludables (PAIES)',
             hash: 't_2_2',
           },
         ],
@@ -70,7 +70,7 @@ export default {
         nombreRuta: 'tema4',
         numero: '4',
         titulo:
-          'Directrices para la caracterización y seguimiento de la estrategia de entornos saludables (EES)',
+          'Directrices para la caracterización y seguimiento de la Estrategia de Entornos Saludables (EES)',
         desarrolloContenidos: true,
       },
     ],
@@ -122,7 +122,7 @@ export default {
   complementario: [
     {
       tema:
-        'Herramientas para la caracterización y seguimiento de las condiciones socioambientales y sanitarias de los entornos.',
+        'Directrices para la caracterización y seguimiento de la estrategia de entornos saludables (EES).',
       referencia:
         'Ministerio de Salud y Protección Social. (2016). Herramientas para la caracterización y seguimiento de las condiciones socioambientales y sanitarias de los entornos (Documentos 06-07-16). Bogotá, Colombia: Ministerio de Salud y Protección Social.',
       tipo: 'Cartilla',
@@ -131,7 +131,7 @@ export default {
     },
     {
       tema:
-        'Evaluación de la política pública de escuela saludable en Colombia: fase de formulación (1999-2006).',
+        'Estructura general para la implementación de la estrategia de entornos saludables (EES).',
       referencia:
         'Campos, A. C., Robledo-Martínez, R., Arango-Soler, J. M., & Agudelo-Calderón, C. A. (s. f.). Evaluación de la política pública de escuela saludable en Colombia: fase de formulación (1999-2006). ',
       tipo: 'Revista',
@@ -178,7 +178,7 @@ export default {
     {
       termino: 'Evaluación',
       significado:
-        'análisis sistemático de las acciones y resultados de la estrategia de entornos saludables, mediante indicadores y procesos participativos.',
+        'análisis sistemático de las acciones y resultados de la Estrategia de Entornos Saludables, mediante indicadores y procesos participativos.',
     },
     {
       termino: 'Intersectorialidad',
@@ -219,19 +219,19 @@ export default {
   referencias: [
     {
       referencia:
-        'Organización mundial de la salud, organización panamericana de la salud, ministerio de la protección social, ministerio de educación nacional, ministerio de ambiente, vivienda y desarrollo territorial, & departamento nacional de planeación. (2009). Herramientas para la caracterización y seguimiento de las condiciones socioambientales y sanitarias de los entornos (Documentos 06-07-16). ',
+        'Organización Mundial de la Salud, Organización Panamericana de la Salud, Ministerio de la Protección Social, Ministerio de Salud y Protección social, Ministerio de Educación Nacional, Ministerio de Ambiente, Vivienda y Desarrollo Territorial, & Departamento Nacional de Planeación. (2009). Herramientas para la caracterización y seguimiento de las condiciones socioambientales y sanitarias de los entornos (Documentos 06-07-16). ',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/herramientas-para-caracterizacion-y-seguimiento-de-las-condiciones-socio-ambientales-y-sanitarias-de-los-entornos.pdf',
     },
     {
       referencia:
-        'Ministerio de salud y protección social. (2016). Lineamientos nacionales para la aplicación y el desarrollo de las estrategias de entornos saludables (EES). ',
+        'Ministerio de Salud y Protección Social. (2016). Lineamientos nacionales para la aplicación y el desarrollo de las Estrategias de Entornos Saludables (EES). ',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/lineamientos-nacionales-para-la-aplicacion-y-el-desarrollo-de-las-ees.pdf',
     },
     {
       referencia:
-        'Organización mundial de la salud, organización panamericana de la salud, ministerio de la protección social, ministerio de educación nacional, ministerio de ambiente, vivienda y desarrollo territorial, y departamento nacional de planeación. (2009). manual de gestión territorial: entornos saludables (documento 05). ',
+        'Organización Mundial de la Salud, Organización Panamericana de la Salud, Ministerio de la Protección Social, Ministerio de Educación Nacional, Ministerio de Ambiente, Vivienda y Desarrollo Territorial, y Departamento Nacional de Planeación. (2009). Manual de gestión territorial: entornos saludables (documento 05). ',
       link:
         'https://www.minsalud.gov.co/Documentos%20y%20Publicaciones/MANUAL%20DE%20GESTI%C3%93N%20TERRITORIAL.pdf',
     },
@@ -295,7 +295,13 @@ export default {
     },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
-      autores: [],
+      autores: [
+        {
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de recursos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+      ],
     },
   ],
   creditosAdicionales: {

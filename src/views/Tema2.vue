@@ -5,13 +5,13 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Evaluación de la estrategia de entornos saludables (EES)
+      h1 Evaluación de la Estrategia de Entornos Saludables (EES)
     .bloque-texto-g.bg-fondo-5.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/t2/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La estrategia de entornos saludables (EES) tiene como propósito promover y garantizar ambientes que favorezcan el bienestar, la salud integral y la calidad de vida de la población en diferentes espacios como la escuela, la vivienda, la comunidad y los lugares de trabajo, para asegurar su adecuada implementación y cumplimiento de los objetivos, es fundamental que las entidades territoriales (departamentos, municipios y distritos) en Colombia, desarrollen un trabajo planeado, articulado y evaluado.
+        p.mb-0 La Estrategia de Entornos Saludables (EES) tiene como propósito promover y garantizar ambientes que favorezcan el bienestar, la salud integral y la calidad de vida de la población en diferentes espacios como la escuela, la vivienda, la comunidad y los lugares de trabajo, para asegurar su adecuada implementación y cumplimiento de los objetivos, es fundamental que las entidades territoriales (departamentos, municipios y distritos) en Colombia, desarrollen un trabajo planeado, articulado y evaluado.
    
     
     .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
@@ -113,11 +113,11 @@
     .row.justify-content-center.mb-0(data-aos="fade-left")
        .col-sm-12.col-lg-10
          figure(data-aos='fade-up').mb-5
-            img(src='@/assets/curso/temas/t2/15.svg', alt='Diagrama general de la implementación de la estrategia de entornos saludables (EES) en Colombia, que describe la estructura del comité técnico nacional, la planeación interinstitucional (PAIES), y las fases de diagnóstico, elaboración, implementación, evaluación y supervisión, con participación comunitaria y redes de vivienda, escuela y lugares de trabajo saludables.').mb-0
+            img(src='@/assets/curso/temas/t2/15.svg', alt='Diagrama general de la implementación de la Estrategia de Entornos Saludables (EES) en Colombia, que describe la estructura del comité técnico nacional, la planeación interinstitucional (PAIES), y las fases de diagnóstico, elaboración, implementación, evaluación y supervisión, con participación comunitaria y redes de vivienda, escuela y lugares de trabajo saludables.').mb-0
     p.mb-5(data-aos="fade-left") Fuente: Elaboración propia tomado de OMS/OPS (2009)
     
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 2.1 Estructura general para la implementación de la estrategia de entornos saludables (EES)
+      h2 2.1 Estructura general para la implementación de la Estrategia de Entornos Saludables (EES)
     .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
           img(src='@/assets/bg/2.svg', alt='')
@@ -129,28 +129,28 @@
         ul.lista-ul.lista-ul--separador
           li.d-flex
             i.fas.fa-check-circle.bg-color-3
-            p.mb-0 Departamento nacional de planeación (DNP).
+            p.mb-0 Departamento Nacional de Planeación (DNP).
           li.d-flex
             i.fas.fa-check-circle.bg-color-3
-            p.mb-0  Ministerio de salud y protección social (MPS).
+            p.mb-0  Ministerio de Salud y Protección Social (MPS).
           li.d-flex
             i.fas.fa-check-circle.bg-color-3
-            p.mb-0  Ministerio de ambiente y desarrollo sostenible (MADS).
+            p.mb-0  Ministerio de Ambiente y Desarrollo Sostenible (MADS).
           li.d-flex
             i.fas.fa-check-circle.bg-color-3
-            p.mb-0  Ministerio de educación nacional (MEN).
+            p.mb-0  Ministerio de Educación Nacional (MEN).
           li.d-flex
             i.fas.fa-check-circle.bg-color-3
-            p.mb-0  Instituto colombiano de bienestar familiar (ICBF).
+            p.mb-0  Instituto Colombiano de Bienestar fFmiliar (ICBF).
           li.d-flex
             i.fas.fa-check-circle.bg-color-3
-            p.mb-0  Servicio nacional de aprendizaje (SENA).
+            p.mb-0  Servicio Nacional de Aprendizaje (SENA).
           li.d-flex
             i.fas.fa-check-circle.bg-color-3
             p.mb-0  Agencia de acción social.
           li.d-flex
             i.fas.fa-check-circle.bg-color-3
-            p.mb-0   Organización panamericana de la salud / Organización mundial de la salud (OPS/OMS).
+            p.mb-0   Organización Panamericana de la Salud / Organización Mundial de la Salud (OPS/OMS).
       .col-sm-12.col-lg-5.d-none.d-lg-block
         img(src='@/assets/curso/temas/t2/16.svg', alt='')
 
@@ -165,10 +165,10 @@
           ul.lista-ul--color.mb-0
             li.d-flex
               i.fas.fa-check-circle.bg-color-3
-              p.mb-0 Definir y actualizar los lineamientos nacionales de la estrategia de entornos saludables.
+              p.mb-0 Definir y actualizar los lineamientos nacionales de la Estrategia de Entornos Saludables.
             li.d-flex.mb-0
                 i.fas.fa-check-circle.bg-color-3
-                p.mb-0 Elaborar y orientar el plan de acción intersectorial de entornos saludables.
+                p.mb-0 Elaborar y orientar el Plan de Acción Intersectorial de Entornos Saludables.
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t2/26.png', alt='')
 
@@ -176,7 +176,7 @@
         .col-auto.titulo-icono-img
           img(src='@/assets/bg/2.svg', alt='')
         .col
-          h3.mb-0.titulo-icono-text.p-0 Gestión territorial de la estrategia de entornos saludables
+          h3.mb-0.titulo-icono-text.p-0 Gestión territorial de la Estrategia de Entornos Saludables
 
 
     .row.justify-content-center.align-items-center.mb-
@@ -193,12 +193,12 @@
         .col-auto.titulo-icono-img
           img(src='@/assets/bg/2.svg', alt='')
         .col
-          h3.mb-0.titulo-icono-text.p-0 Planeación interinstitucional de entornos saludables (PAIES)
+          h3.mb-0.titulo-icono-text.p-0 Planeación Interinstitucional de Entornos Saludables (PAIES)
     p.mb-4(data-aos="fade-left") Proceso que garantiza la coordinación entre sectores y niveles de gobierno para una implementación efectiva, incluye las siguientes acciones:
     ul.lista-ul.lista-ul--separador.mb-5(data-aos="fade-left")
       li.d-flex
         i.fas.fa-check-circle.bg-color-3
-        p.mb-0 Mesas de trabajo de entornos saludables (COTSA).
+        p.mb-0 Mesas de Trabajo de Entornos Saludables (COTSA).
       li.d-flex
         i.fas.fa-check-circle.bg-color-3
         p.mb-0 Espacios de concertación y articulación interinstitucional.
@@ -300,10 +300,10 @@
 
 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 2.2 Plan de acción intersectorial de entornos saludables (PAIES)
+      h2 2.2 Plan de Acción Intersectorial de Entornos Saludables (PAIES)
     .row.justify-content-center.mb-4(data-aos="fade-left")
       .col-lg-7.col-md-12.col-sm-12
-        p.mb-5 El Plan de acción intersectorial de entornos saludables (PAIES) es un instrumento de gestión intersectorial que tiene como propósito fundamental orientar, articular y fortalecer los programas y acciones destinadas a mejorar las condiciones socioambientales y sanitarias de los diferentes entornos en los que las personas desarrollan su vida cotidiana, tales como la vivienda, la escuela y los lugares de trabajo. 
+        p.mb-5 El Plan de Acción Intersectorial de Entornos Saludables (PAIES) es un instrumento de gestión intersectorial que tiene como propósito fundamental orientar, articular y fortalecer los programas y acciones destinadas a mejorar las condiciones socioambientales y sanitarias de los diferentes entornos en los que las personas desarrollan su vida cotidiana, tales como la vivienda, la escuela y los lugares de trabajo. 
         .cajon.color-primario.p-4
           p.mb-0 El plan de acción también busca no solo intervenir sobre los factores que afectan la salud y el bienestar de la población, sino también prevenir el deterioro de dichos entornos mediante un enfoque de promoción de la salud y prevención de riesgos, asimismo, el PAIES debe concebirse como un documento flexible y dinámico, que se ajuste a las realidades y particularidades de cada territorio, por lo cual requiere una evaluación y actualización periódica, de acuerdo con las necesidades emergentes y las transformaciones del contexto social, económico, ambiental y sanitario, de esta manera, se garantiza su pertinencia y efectividad en la implementación de políticas públicas integrales, centradas en la equidad, la participación social y la sostenibilidad.
 
@@ -321,7 +321,7 @@
           img(src='@/assets/curso/temas/t2/23.png')
 
         .bloque-texto-g__texto.p-4
-          p.mb-0 Para su adecuada formulación, el consejo territorial de salud ambiental (COTSA), en conjunto con otras entidades y sectores involucrados, debe desarrollar un proceso estructurado que contemple dos fases fundamentales: la fase de diagnóstico y la fase de elaboración, estas fases permiten contar con una visión clara y completa del estado actual de los entornos y, con base en ello, diseñar acciones concretas, pertinentes y sostenibles que respondan a las problemáticas identificadas.
+          p.mb-0 Para su adecuada formulación, el Consejo Territorial de Salud Ambiental (COTSA), en conjunto con otras entidades y sectores involucrados, debe desarrollar un proceso estructurado que contemple dos fases fundamentales: la fase de diagnóstico y la fase de elaboración, estas fases permiten contar con una visión clara y completa del estado actual de los entornos y, con base en ello, diseñar acciones concretas, pertinentes y sostenibles que respondan a las problemáticas identificadas.
 
     .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
       .col-auto.titulo-icono-img

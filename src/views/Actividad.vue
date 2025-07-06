@@ -26,7 +26,7 @@ export default {
         {
           id: 1,
           texto:
-            'La estrategia de escuelas saludables (EES) busca promover el bienestar integral de la comunidad educativa mediante acciones coordinadas de promoción y protección de la salud.',
+            'La Estrategia de Escuelas Saludables (EES) busca promover el bienestar integral de la comunidad educativa mediante acciones coordinadas de promoción y protección de la salud.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -95,7 +95,7 @@ export default {
         {
           id: 4,
           texto:
-            'La estrategia de escuelas saludables solo se centra en la infraestructura física de la escuela, sin considerar factores psicosociales o culturales.',
+            'La Estrategia de Escuelas Saludables solo se centra en la infraestructura física de la escuela, sin considerar factores psicosociales o culturales.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -210,7 +210,7 @@ export default {
         {
           id: 9,
           texto:
-            'La estrategia de escuelas saludables incluye jornadas de salud, vacunación y vigilancia epidemiológica como parte de la reorientación de los servicios de salud.',
+            'La Estrategia de Escuelas Saludables incluye jornadas de salud, vacunación y vigilancia epidemiológica como parte de la reorientación de los servicios de salud.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [

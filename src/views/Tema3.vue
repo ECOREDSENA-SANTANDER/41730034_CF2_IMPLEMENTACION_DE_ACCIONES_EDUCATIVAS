@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 3
       h1 Elementos que debe incluir el PAIES según las directrices de la OMS/OPS
-    p.mb-4(data-aos="fade-left") De acuerdo con las recomendaciones establecidas por la Organización mundial de la salud (OMS) y la Organización panamericana de la salud (OPS), el plan de acción integral para entornos saludables (PAIES) debe incorporar los siguientes elementos fundamentales para garantizar su efectividad y sostenibilidad:
+    p.mb-4(data-aos="fade-left") De acuerdo con las recomendaciones establecidas por la Organización Mundial de la Salud (OMS) y la Organización Panamericana de la Salud (OPS), el Plan de Acción Integral para Entornos Saludables (PAIES) debe incorporar los siguientes elementos fundamentales para garantizar su efectividad y sostenibilidad:
     .row.justify-content-center.align-items-start.mb-5
       .col-sm-12.col-lg-5
         .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
@@ -175,7 +175,7 @@
                 img(src='@/assets/curso/temas/t3/21.svg')
           p.text-center.mb-0 Integración de procesos educativos y de sensibilización sobre la importancia de los entornos saludables, fomentando el empoderamiento social.
     .bg-color-10.mb-4
-      h3.py-1 Indicadores a monitorear para la evaluación de la estrategia de entornos saludables (EES)
+      h3.py-1 Indicadores a monitorear para la evaluación de la Estrategia de Entornos Saludables (EES)
 
 
     .bg-full-width.bg-fondo-8.mb-5(data-aos="fade-left")
@@ -207,7 +207,7 @@
                 .row.align-items-center.my-4.justify-content-center.hide-icon-sm
                     .col-sm-12.col-md-3.col-lg-5
                         img(src='@/assets/curso/temas/t3/25.svg', alt='')
-                p.mb-0.text-center Número de municipios del departamento que han desarrollado programas de acción integral en entornos saludables (PAIES) conforme a los lineamientos técnicos nacionales.
+                p.mb-0.text-center Número de municipios del departamento que han desarrollado Programas de Acción Integral en Entornos Saludables (PAIES) conforme a los lineamientos técnicos nacionales.
 
     .bg-color-10.mb-4
       h3.py-2 Indicadores para evaluar los programas de caracterización y seguimiento de las condiciones socio-ambientales y sanitarias del entorno
