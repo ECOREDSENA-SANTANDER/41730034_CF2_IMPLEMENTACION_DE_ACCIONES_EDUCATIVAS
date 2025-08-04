@@ -141,7 +141,7 @@
             p.mb-0  Ministerio de Educación Nacional (MEN).
           li.d-flex
             i.fas.fa-check-circle.bg-color-3
-            p.mb-0  Instituto Colombiano de Bienestar fFmiliar (ICBF).
+            p.mb-0  Instituto Colombiano de Bienestar Familiar (ICBF).
           li.d-flex
             i.fas.fa-check-circle.bg-color-3
             p.mb-0  Servicio Nacional de Aprendizaje (SENA).

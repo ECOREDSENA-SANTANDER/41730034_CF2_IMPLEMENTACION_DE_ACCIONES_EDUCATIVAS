@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 4
       h1 Directrices para la caracterización y seguimiento de la Estrategia de Entornos Saludables (EES)
-    p.mb-4(data-aos="fade-left") La Organización Mundial de la Salud (OMS) y la Organización Panamericana de la Salud (OPS) (2009) establecieron que para una adecuada gestión de las condiciones socio-ambientales y sanitarias en cada uno de los subprogramas de la Estrategia de Entornos Saludables (EES), es fundamental contar con un proceso sistemático de caracterización y seguimiento, por ello, se recomienda que los programas de caracterización y monitoreo incluyan, al menos, los siguientes componentes fundamentales:
+    p.mb-4(data-aos="fade-left") La Organización Mundial de la Salud (OMS) y la Organización Panamericana de la Salud (OPS) (2009) establecieron que para una adecuada gestión de las condiciones socioambientales y sanitarias en cada uno de los subprogramas de la Estrategia de Entornos Saludables (EES), es fundamental contar con un proceso sistemático de caracterización y seguimiento, por ello, se recomienda que los programas de caracterización y monitoreo incluyan, al menos, los siguientes componentes fundamentales:
     .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
       .col-auto.titulo-icono-img
         img(src='@/assets/bg/2.svg', alt='')
@@ -266,7 +266,7 @@
         img.mx-2(src='@/assets/curso/temas/t4/6.svg', alt='')
       .col-sm-12.col-lg-11
         .py-4
-          p.mb-0 #[b Concepto:] es una herramienta diseñada para realizar un auto-diagnóstico participativo del entorno escolar, según los componentes y líneas de acción definidas en los lineamientos nacionales para la aplicación y desarrollo de las estrategias de entornos saludables (2006). Su objetivo es orientar a las instituciones educativas en la identificación de desafíos y oportunidades de mejora, a fin de avanzar hacia la consolidación de escuelas más seguras, inclusivas y saludables.
+          p.mb-0 #[b Concepto:] es una herramienta diseñada para realizar un autodiagnóstico participativo del entorno escolar, según los componentes y líneas de acción definidas en los lineamientos nacionales para la aplicación y desarrollo de las estrategias de entornos saludables (2006). Su objetivo es orientar a las instituciones educativas en la identificación de desafíos y oportunidades de mejora, a fin de avanzar hacia la consolidación de escuelas más seguras, inclusivas y saludables.
 
     p.mb-3(data-aos="fade-left") La herramienta está estructurada en dos grandes módulos:
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
